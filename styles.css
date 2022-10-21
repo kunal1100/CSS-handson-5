@@ -261,13 +261,13 @@ body{
 .wheel img{
     width: 72px;
     width: 72px;
-    animation: wheel 1s liner infinite;
+    animation: wheel 1s linear infinite;
 }
-.back-wheel{
+.backwheel{
     left: -165px;
     position: absolute;
 }
-.front-wheel{
+.frontwheel{
     left: 80px;
     position: absolute;
 }
