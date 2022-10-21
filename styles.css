@@ -194,7 +194,7 @@ body{
     height: 100px;
     width: 500%;
     display: block;
-    background-image: url(/road.jpg);
+    background-image: url(road.jpg);
     position: absolute;
     bottom: 0;
     left: 0;
@@ -212,7 +212,7 @@ body{
 .city{
     height: 250px;
     width: 500%;
-    background-image: url(/city.png);
+    background-image: url(city.png);
     position: absolute;
     bottom: 100px;
     left: 0;
